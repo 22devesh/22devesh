@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development, Ethical Hacking**
 
-- 📫 How to reach me **dnssinghal8269@gmail.com**
+- 📫 How to reach me **singhaldevesh514@gmail.com**
 
 - ⚡ Fun fact **I am Explorer**
 
