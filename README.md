@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 💬 Ask me about **Web Development, Ethical Hacking**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **singhaldevesh514@gmail.com**
 
