@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22devesh&label=Profile%20views&color=0e75b6&style=flat" alt="22devesh" /> </p>
 
 
-- 🔭 I’m currently working on [Trivago](https://22devesh.github.io/Trivago_KOC08_CipherSchools/)
+- 🔭 I’m currently working on [Trivago](https://22devesh.github.io/Trivago_Tourister_website/)
 
 - 🌱 I’m currently learning ** Laravel **
 
