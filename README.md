@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Trivago](https://22devesh.github.io/Trivago_KOC08_CipherSchools/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning ** Laravel **
 
 - 💬 Ask me about **Web Development**
 
